@@ -1,0 +1,550 @@
+Hýrsýzlýk;2011.Ocak.01;Kozluk Mh. 41200 Ýzmit.Kocaeli;Erkek;23
+Ateþli silah;2011.Ocak.02;28 Haziran Ýöo, Izmit;Erkek;19
+Soygun;2011.Ocak.03;Tepekoy TOKÝ Konutlari Tepekoy Mh 41000 Izmit.Kocaeli;Erkek;14
+Ateþli silah;2011.Ocak.4;Korfez Camlitepe Mahallesi, Yunus Emre Caddesi;Erkek;30
+Tecavüz;2011.Ocak.9;Gebze;Erkek;50
+Ateþli silah;2011.Ocak.12;Kadikoy Mahallesi, Turan Gunes Caddesi;-;-
+Tehdit;2011.Ocak.12;28 Haziran So, Izmit;Erkek;26
+Soygun;2011.Ocak.15;Kadikoy Mahallesi,Turan Gunes Caddesi Kocaeli;-;-
+Ýntihar;2011.Ocak.18;KuruCesme sokak izmit;Erkek;-
+Uyuþturucu;2011.Ocak.19;Belsa Plaza Kocaeli;Erkek;21
+Hýrsýzlýk;2011.Ocak.20;Kadikoy Mahallesi,Turan Gunes Caddesi Kocaeli;Erkek;37
+Dolandýrýcýlýk;2011.Ocak.20;Basiskele Kullar, Gölcük;Erkek;-
+Hýrsýzlýk;2011.Ocak.20;Çamlitepe Mh 41780 Korfez.Kocaeli;Kadýn;-
+Dolandýrýcýlýk;2011.Ocak.21;Gundogdu Mh 41060 Ýzmit Kocaeli;Erkek;34
+Dolandýrýcýlýk;2011.Ocak.21;Kocaeli Ýzmit;Erkek;26
+Þiddet;2011.Ocak.22;Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Ocak.22;Yeni Mahalle Cd Seymen Mh 41010 Golcuk Kocaeli;Erkek;26
+Ateþli silah;2011.Ocak.22;41000 Masukiye.Kocaeli;Erkek;34
+Þiddet;2011.Ocak.23;Gultepe Þehitler Mezarligi, Fatih Mh 41100 Ýzmit.Kocaeli;Erkek;20
+Þiddet;2011.Ocak.24;Semerciler Mh 54100 Sakarya;Erkek;?
+Hýrsýzlýk;2011.Ocak.24;Anadolu Otoyolu (TEM Ýstanbul;Ankara Otoyolu),41000 Izmit.Kocaeli;Erkek;16
+Hýrsýzlýk;2011.Ocak.25;Sepetci Koyu, 41010 Sepetci.Kocaeli;Kadýn;-
+Soygun;2011.Ocak.26;Fethiye Cd,41010 Izmit.Kocaeli;Erkek;50
+Hýrsýzlýk;2011.Ocak.26;Kocaeli;Kadýn;-
+Soygun;2011.Ocak.26;Serdar Mah Aksemsettin Caddesi okul Sok. 4, Yuvacik.Kocaeli;Erkek;16
+Hýrsýzlýk;2011.Ocak.27;42 Evler Sanayi Mah Lalezar Sok. 11, Ýzmit Merkez Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Ocak.27;Kocaeli;Erkek;45
+Uyuþturucu;2011.Ocak.28;Tepe Tarla Mh 41135 Tepe Tarla.Kocaeli;Kadýn;-
+Ateþli silah;2011.Ocak.28;Fuar Girisi, Karabas Mh 41040 Izmit, Kocaeli;Erkek;37
+Tecavüz;2011.Ocak.30;Kocaeli;Erkek;19
+Ateþli silah;2011.Þubat.01;Güney Mahallesi, Dadaþ Sokak;Erkek;-
+Soygun;2011.Þubat.08;Kocaeli Izmit;Erkek;-
+Þiddet;2011.Þubat.11;Kocaeli Karabaþ Mahalle;Erkek;-
+Þiddet;2011.Þubat.12;Fethiye Caddesi, Yasev Pasajý kocaeli;Erkek;-
+Hýrsýzlýk;2011.Þubat.15;Baþiskele Bahçecik Ayazma Konutlarý;Erkek;30
+Ýntihar;2011.Þubat.15;Gebze Güzeller Mahallesi;Kadýn;16
+Hýrsýzlýk;2011.Þubat.15;Baþiskele Yuvacýk Semt Pazarý;Kadýn;21
+Hýrsýzlýk;2011.Þubat.17;Kuruçeþme Radar Caddesi, Kocaeli;Erkek;36
+Ateþli silah;2011.Þubat.20;Gebze;Erkek;-
+Hýrsýzlýk;2011.Þubat.27;Serdar Mahallesi;Erkek;19
+Þiddet;2011.Þubat.26;Ýnönü Mh. Muammer Aksoy Cd. Pk:41420 Çayýrova.Kocaeli;Erkek;33
+Þiddet;2011.Þubat.25;Cumhuriyet Mh. 41010 Kartepe.Kocaeli;Erkek;29
+Ýntihar;2011.Þubat.24;Kandýra;Erkek;25
+Hýrsýzlýk;2011.Þubat.24;Kartepe;Kadýn;-
+Dolandýrýcýlýk;2011.Þubat.24;Gültepe sokak Izmit;Erkek;-
+Hýrsýzlýk;2012.Temmuz.01;Kuruçeþme Fatih Mahallesi Barýþ Caddesi Kocaeli;Erkek;32
+Ýntihar;2012.Temmuz.01;Karamürsel Kocaeli;Kadýn;60
+Ateþli Silah;2012.Temmuz.01;Ýzmit Gülbahçe Kadriye Köyü;-;-
+Ýntihar;2012.Temmuz.02;Bayýndýrlýk Kalýcý Konutlarý Kocaeli;Erkek;23
+Þiddet;2012.Temmuz.02;Belsa Alýþveriþ Merkezi Kocaeli;Erkek;33
+Ateþli Silah;2012.Temmuz.03;Kandýra,Karaaðaç Köyü,Kocaeli;-;-
+Ateþli silah;2012.Temmuz.03;Gebze Mevlana Mahallesi Kocaeli;Erkek;26
+Ýntihar;2012.Temmuz.03;Bayraktar Köyü Kocaeli;Erkek;17
+Ateþli Silah;2012.Temmuz.03;Dilovasý Kocaeli;Kadýn;20
+Hýrsýzlýk;2012.Temmuz.04;Plajyolu, Kýyýkent Sitesi C Blok Kocaeli;-;-
+Hýrsýzlýk;2012.Temmuz.04;Darýca Fatih Sultan Mehmet Caddesi,Kocaeli;-;-
+Ateþli Silah;2012.Temmuz.05;GebzeBeylikbaðý,Aþýk Veysel Parký;-;-
+Dolandýrýcýlýk;2012.Temmuz.05;Kartepe Kocaeli;Erkek;22
+Ateþli Silah;2012.Temmuz.06;GebzeBeylikbaðý,Kocaeli;-;-
+Dolandýrýcýlýk;2012.Temmuz.06;Ýzmit;Kadýn;27
+Dolandýrýcýlýk;2012.Temmuz.06;Ýzmit,Kocaeli;Erkek;46
+Ateþli Silah;2012.Temmuz.09;Herek;E;Kocaeli;Erkek;17
+Tecavüz;2012.Temmuz.10;Ýzmit,Kocaeli;Erkek;40
+Hýrsýzlýk;2012.Temmuz.10;Körfez,Kocaeli;Erkek;63
+Hýrsýzlýk;2012.Aðustos.01;Karamürsel,Dereköy Kocaeli;-;-
+Hýrsýzlýk;2012.Aðustos.02;Ýzmit,Çukurbað Mahallesi,Bahariye Caddesi No:73;-;-
+Ateþli Silah;2012.Aðustos.02;Kartepe Derbent;Erkek;-
+Tecavüz;2012.Aðustos.02;Gebze;Erkek;-
+Þiddet;2012.Aðustos.02;Gebze;Erkek;24
+Uyuþturucu;2012.Aðustos.03;Derince kocaeli;-;-
+Ateþli Silah;2012.Aðustos.03;Kartepe Derbent;Erkek;-
+Ateþli Silah;2012.Aðustos.05;Derince Kocaeli;Erkek;-
+Uyuþturucu;2012.Aðustos.05;Kandýra Kocaeli;-;-
+Tecavüz;2012.Aðustos.07;Ýzmit;-
+Ateþli Silah;2012.Aðustos.08;Derince Kocaeli;Erkek;-
+Ateþli Silah;2012.Aðustos.08;Gölcük;Erkek;-
+Uyuþturucu;2012.Aðustos.08;Çanakcý Deresi,Derince Kocaeli;-;-
+Ateþli Silah;2012.Aðustos.11;Derince Kocaeli;Erkek;-
+Ýntihar;2012.Aðustos.12;Ýnönü Mahallesi,Gebze Kocaeli;Kadýn;25
+Þiddet;2012.Aðustos.12; Alikahya,Ýzmit Kocaeli;Erkek;30
+Þiddet;2012.Aðustos.13;Yahya Kaptan izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Aðustos.13;Serdar Mahallesi,izmit Kocaeli;Erkek;23
+Ateþli Silah;2012.Aðustos.13;Gebze Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Aðustos.13;Nurus Mobilya Ýzmit Kocaeli;-;-
+Þiddet;2012.Aðustos.14;izmit Körfez Mahallesi Kocaeli;Erkek;47
+Þiddet;2012.Aðustos.14;Körfez,Kocaeli;Erkek;55
+Þiddet;2012.Aðustos.14;Gebze Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Aðustos.15;Ýzmit,Þehit Rafet Karacan Bulvarý Kocaeli;-
+Ateþli Silah;2012.Aðustos.15;Derince Kocaeli;Erkek;-
+Uyuþturucu;2012.Aðustos.15;Derince Kocaeli;Kadýn;-
+Ateþli Silah;2012.Aðustos.15;Derince Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Aðustos.15;Gebze Kocaeli;-;-
+Hýrsýzlýk;2012.Mayýs.01;Kadiköy Mahallesi,Sümrüt sokak Izmit Kocaeli;Erkek;19
+Ateþli silah;2012.Mayýs.01;Gültepe istikameti,Izmit Kocaeli;Erkek;44 
+Hýrsýzlýk;2012.Mayýs.01;Erenler Mahallesi,Yanki sokak Izmit Kocaeli;Kadýn;17
+Dolandýrýcýlýk;2012.Mayýs.01;Cedit Mahallesi,Izmit Kocaeli;Kadýn;39
+Dolandýrýcýlýk;2012.Mayýs.02;Bayramoglu Mahallesi,Burak Reis Caddesi Ýzmit Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Mayýs.02;Tuysuzler Mahallesi,Izmit,Kocaeli;Erkek;31
+Ateþli silah;2012.Mayýs.03;Gebze Kocaeli;Erkek;-
+Soygun;2012.Mayýs.03;Kozluk Mahallesi,Orhan Veli sokak Izmit Kocaeli;-;-
+Tecavüz;2012.Mayýs.03;Izmit,Kocaeli;Erkek;49
+Þiddet;2012.Mayýs.03;Derince Kocaeli;Erkek;-
+Uyuþturucu;2012.Mayýs.04;Basiskele Gocuk Kocaeli;Erkek;40
+Hýrsýzlýk;2012.Mayýs.05;Preveze Caddesi,Gölcük Kocaeli;Erkek;-
+Tecavüz;2012.Mayýs.06;Yavuz Sultan Mahallesi,Korfez,Kocaeli;Erkek;37
+Uyuþturucu;2012.Mayýs.07;Gultepe Kocaeli;Erkek;40
+Ateþli silah;2012.Mayýs.07;Sabri Yalim Parki,Yuruyus Yolu,Kocaeli;Erkek;22
+Ateþli silah;2012.Mayýs.08;Tütünçiftlik Tugrul Caddesi,Korfez,Kocaeli;Erkek;-
+Ýntihar;2012.Mayýs.08;Salim Dervisoglu Caddesi,Kartepe Kocaeli;Erkek;49
+Hýrsýzlýk;2012.Mayýs.09;Kucuk Sanayi Sitesi,Korfez,Izmit,Kocaeli;Erkek;40
+Ateþli silah;2012.Mayýs.09;Bagdat Caddesi,Kartepe Kocaeli;Erkek;-
+Uyuþturucu;2012.Mayýs.09;Tem Otoyolu,Gultepe Kocaeli;Erkek;-
+Ateþli silah;2012.Mayýs.09;Kurucesm;E;Izmit,Kocaeli;Erkek;27
+Ateþli silah;2012.Mayýs.09;Bekirdere Mahallesi,Turan Günes Caddesi,Üçyol,Izmit,Kocaeli;Erkek;20
+Ateþli silah;2012.Mayýs.09;Gebze Kocaeli;Erkek;17
+Dolandýrýcýlýk;2012.Mayýs.10;Cukurbag Mahallesi,Izmit,Kocaeli;Erkek;57
+Hýrsýzlýk;2012.Mayýs.11;Serdar Mahallesi Burak Caddesi,Izmit,Kocaeli;Erkek;23
+Uyuþturucu;2012.Mayýs.11;Kozluk Mahallesi,Izmit,Kocaeli;Erkek;29
+Hýrsýzlýk;2012.Mayýs.12;Yenikent Mahallesi,Derince Kocaeli;Erkek;20
+Hýrsýzlýk;2012.Mayýs.12;Karadenizliler Mahallesi,Çarirbasi Caddesi,Alikahya,Kocaeli;Erkek;32
+Uyuþturucu;2012.Mayýs.14;Gebze Kocaeli;Erkek;52
+Tecavüz;2012.Mayýs.14;Gebze Kocaeli;Erkek;23
+Hýrsýzlýk;2012.Mayýs.15;Atatürk Mahallesi,Alikahya,Kocaeli;ErkekErkekErkek;22,20,19
+Ateþli silah;2012.Mayýs.16;Haci Mehmet Mahallesi,Karamürsel,Kocaeli;Erkek;27
+Dolandýrýcýlýk;2012.Mayýs.17;Gölcük Kocaeli;Erkek;-
+Ateþli silah;2012.Mayýs.18;Suadiye Kocaeli;Erkek;73
+Ateþli silah;2012.Mayýs.20;Inonu Caddesi,Çinarli Camii,Baç Kavsagi,Kocaeli;Erkek;35
+Þiddet;2012.Mayýs.21;Cumhuriyet Mahallesi,Cayirova,Kocaeli;Erkek;41
+Ýntihar;2012.Mayýs.21;Dumlupinar Mahallesi,Derince Kocaeli;Erkek;-
+Ateþli silah;2012.Mayýs.21;Cedit Mahallesi,Izmit Kocaeli;Erkek;-
+Uyuþturucu;2012.Mayýs.22;Yenidogan Mahallesi,Mürsel Pasa Caddesi,Izmit,Kocaeli;Erkek;19
+Uyuþturucu;2012.Mayýs.23;Yenidogan Mahallesi,Izmit,Kocaeli;Kadýn;33
+Dolandýrýcýlýk;2012.Mayýs.23;Tem otoyolu,Kartepe Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Mayýs.23;Atatürk Mahallesi,Alikahya,Izmit,Kocaeli;Erkek;45
+Hýrsýzlýk;2012.Mayýs.24;Gaziler Mahallesi,Kartepe Kocaeli;Erkek;-
+Uyuþturucu;2012.Mayýs.25;Derince Kocaeli;Erkek;43
+Ateþli silah;2012.Mayýs.26;Bekirpasa,Izmit,Kocaeli;Erkek;- 
+Hýrsýzlýk;2012.Eylül.01;Turan Güneþ Caddesi,izmit Kocaeli;Erkek;24
+Hýrsýzlýk;2012.Eylül.01;Sýrrýpaþa Mahallesi,Derince Kocaeli;Erkek;21
+Ýntihar;2012.Eylül.02;Þirinyalý Mahallesi,Körfez Kocaeli;Erkek;38
+Ateþli Silah;2012.Eylül.05;Beylikbaðý Mahallesi,Gebze Kocaeli;Erkek;45
+Uyuþturucu;2012.Eylül.10;Tem otoyolu, Dilovasý Kocaeli;Erkek;45
+Dolandýrýcýlýk;2012.Eylül.14;Dilovasý Gümrük Müdürlüðü,Kocaeli;Erkek;-
+Þiddet;2012.Eylül.15;Mustafa Paþa Camii,Gebze Kocaeli;Erkek;20
+Uyuþturucu;2012.Eylül.14;izmit Merkez;Erkek;-
+Hýrsýzlýk;2012.Eylül.15;Denizli köyü Gebze Kocaeli;Erkek;35
+Þiddet;2012.Eylül.19;Donanma ýþýklarý,gölcük Kocaeli;Erkek;30
+Ateþli Silah;2012.Eylül.27;Otokar firmasý,Gölcük Kocaeli;Erkek;25
+Hýrsýzlýk;2012.Eylül.28;izmit þehirler arasý terminal,Kocaeli;Erkek;30
+Hýrsýzlýk;2012.Eylül.30;Hacý hýzýr mah.Veli baba sokak izmit;Erkek;35
+Ýntihar;2012.Eylül.24;Darýca Pirireis Mahallesi,Kocaeli;Erkek;24
+Hýrsýzlýk;2012.Eylül.24;Karabaþ Mahallesi izmit,Kocaeli;Erkek;42
+Þiddet;2012.Eylül.25;Körfez yukarý Hereke Cumhuriyet mah.Kocaeli;Erkek;30
+Hýrsýzlýk;2012.Eylül.25;Tuzla caddesi Darýca Kocaeli;Erkek;-
+Ateþli Silah;2012.Eylül.29;Gaziler Mahallesi 1997 Sokak Gebze Kocaeli;Erkek;-
+Tecavüz;2012.Ekim.01;Mehmet ali paþa Mah.izmit Kocaeli;Erkek;30
+Þiddet;2012.Ekim.01;Yenidoðan mah.izmit,Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Ekim.02;Yenidoðan Mahallesi,izmit Kocaeli;Erkek;-
+Uyuþturucu;2012.Ekim.04;Karamürsel,kocaeli;Erkek;-
+Þiddet;2012.Ekim.04;Köþklüçesme Mahallesi,Gebze Kocaeli;Erkek;22
+Tecavüz;2012.Ekim.07;Karamürsel,Kocaeli;Erkek;40
+Þiddet;2012.Ekim.08;Fevziye Camii mevki,Kocaeli;Erkek;34
+Ateþli Silah;2012.Ekim.08;Yeþilova Mahallesi Turan Güneþ cad.Kocaeli;Erkek;20
+Dolandýrýcýlýk;2012.Ekim.09;izmit merkez Kocaeli;Erkek;26
+Ýntihar;2012.Ekim.11;izmit Kadýköy Mahalles,Kocaeli;Erkek;32
+Uyuþturucu;2012.Ekim.11;Cedit Mahallesi izmit,Kocaeli;Erkek;19
+Þiddet;2012.Ekim.12;Yenidoðan Mahallesi Derince cad.Kocaeli;Erkek;25
+Þiddet;2012.Haziran.01;Yarimca Mahallesi,Korfez,Kocaeli;Erkek;30
+Ateþli silah;2012.Haziran.02;Halkevi,Izmit,Kocaeli;Erkek;-
+Dolandýrýcýlýk;2012.Haziran.02;Mimar Sinan Mahallesi Yunus Emre Caddesi,Dilovasi,Kocaeli;Erkek;-
+Ýntihar;2012.Haziran.03;Hatipkoy,Kurucesm;E;Kocaeli;Erkek;42
+Soygun;2012.Haziran.05;Beylikbaðý Mahallesi,Ankara Caddesi,GebzeKocaeli;Erkek;40
+Ýntihar;2012.Haziran.05;Arýzlý Akpýnar TOKÝ Konutlarý,3. Ada,2. Blo;K;Kurucesme Kocaeli;Erkek;16
+Tecavüz;2012.Haziran.07;Yeniþehir Mahallesi,Izmit,Kocaeli;Erkek;59
+Hýrsýzlýk;2012.Hýrsýzlýk;08Cedit Mahallesi,Turan Güneþ Caddesi,Izmit,Kocaeli;Erkek;32
+Uyuþturucu;2012.Haziran.08;44 Evler,Derince Kocaeli;Erkek;-
+Þiddet;2012.Haziran.09;Turgut Mahallesi,Abidin Aral sokak Kocael;Erkek;42
+Þiddet;2012.Haziran.10;Izmit,Kocaeli;Erkek;-
+Uyuþturucu;2012.Haziran.11;Tem Otoylu,Kurucesm;E;Izmit,Kocaeli;Erkek;38
+Þiddet;2012.Haziran.11;28 Haziran Mahallesi,Dere sokak Izmit,Kocaeli;Erkek;54
+Soygun;2012.Haziran.16;Tüysüzler Mahallesi,Izmit,Kocaeli;Erkek;20
+Dolandýrýcýlýk;2012.Haziran.23;Omeraða Mahallesi,Ýzmit,Kocaeli;Kadýn;19
+Hýrsýzlýk;2012.Mart.01;Alikahya Fatih Mahallesi Kemal Sunal Caddesi Ýzmit Kocaeli;Erkek;21
+Tecavüz;2012.Mart.01;Derince Doðancýlar Köyü Kocaeli;Erkek;43
+Ateþli silah;2012.Mart.03;Ýzmit Halkevi Barlar Sokaðý Kocaeli;Erkek;-
+Ateþli silah;2012.Mart.03;Kartepe Aslanbey Atakent Mahallesi Kocaeli;Erkek;-
+Ýntihar;2012.Mart.03;Gölcük Deðirmendere Atatürk Mahallesi Meriç Apartmaný Kocaeli;Erkek;62
+Ýntihar;2012.Mart.03;Gölcük Kavaklý Sahili Kocaeli;Kadýn;50 
+Uyuþturucu;2012.Mart.05;Derince kocaeli;-;-
+Soygun;2012.Mart.06;Kartepe Uzunçiftlik Kocaeli;-;-
+Hýrsýzlýk;2012.Mart.07;Ýzmit Yenidoðan Mahallesi Miralay Mümtaz Caddesi Kocaeli;Erkek;17
+Ateþli silah;2012.Mart.09;Dilovasý Mimar Sinan Mahallesi Kocaeli;Erkek;34
+Hýrsýzlýk;2012.Mart.10;Baþiskele Kocaeli;Erkek;31
+Ateþli silah;2012.Mart.12;Yeniþehir Mahallesi Kýlýç Sokak Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Mart.13;Körfez Kocaeli;Erkek;55
+Dolandýrýcýlýk;2012.Mart.14;Ýzmit Kocaeli;Kadýn;-
+Hýrsýzlýk;2012.Mart.15;Gebze Arapçeþme Mahallesi Kocaeli;-;-
+Hýrsýzlýk;2012.Mart.20;Hereke Kocaeli;Kadýn;40
+Þiddet;2012.Mart.21;Baþiskele Serdar Mahallesi Molla Hüsrev Caddesi Kocaeli;Erkek;34
+Ateþli silah;2012.Mart.22;Ýzmit Turgut Mahallesi Abidin Aral Sokak Kocaeli;Erkek;24
+Dolandýrýcýlýk;2012.Mart.24;Yeniþehir Mahallesi Kocaeli;-;-
+Þiddet;2012.Mart.27;Ýzmit Turgut Mahallesi Evliya Çelebi Sokak No:34 Kocaeli;Erkek;41
+Hýrsýzlýk;2012.Mart.28;Çayýrova Özgürlük Mahallesi KOcaeli;Erkek;-
+Hýrsýzlýk;2012.Nisan.01;Körfez Hacý Osman Mahallesi Kocaeli;Erkek;33
+Ateþli silah;2012.Nisan.2;Ýzmit Merkez Kocaeli;Erkek;21
+Hýrsýzlýk;2012.Nisan.03;Ýzmit Mehmet Ali Paþa Mahallesi Þengül Sokak KOcaeli;Erkek;26
+Hýrsýzlýk;2012.Nisan.5;Bekirdere Kocaeli;Erkek;25
+Ateþli silah;2012.Nisan.7;Gebze Osman Yýlmaz Mahallesi Mehmet Akif Caddesi Kocaeli;-;-
+Ateþli silah;2012.Nisan.8;Ýzmit Belsa Alýþveriþ Merkezi Kocaeli;Erkek;-
+Tecavüz;2012.Nisan.9;TEM Otoyolu`nun Çayýrova baðlantý yolunda Kocaeli;Erkek;38
+Ateþli silah;2012.Nisan.10;Ýzmit Turgut Mahallesi Kocaeli;Erkek;23
+Hýrsýzlýk;2012.Nisan.13;Derince Ýbni Sina Mahallesi Konuk Sokak Kocaeli;Erkek;39
+Ateþli silah;2012.Nisan.15;Ýzmit Kuruçeþme Fatih Mahallesi Kocaeli;Erkek;28
+Hýrsýzlýk;2012.Nisan.16;Ýzmit Yeniþehir Mahallesi Özgürler Sokak Kocaeli;Erkek;22
+Uyuþturucu;2012.Nisan.18;Ýlimtepe Mahallesi Kocaeli;-;-
+Hýrsýzlýk;2012.Nisan.20;Ýzmit Yuvam Akarca Kocaeli;Erkek;19
+Dolandýrýcýlýk;2012.Nisan.22;Derince Yenikent Kocaeli;-;-
+Hýrsýzlýk;2012.Nisan.24;Gebze Eski Çarþý Kocaeli;Kadýn;-
+Ateþli silah;2012.Nisan.25;Outlet Center Kocaeli;Erkek;-
+Þiddet;2012.Nisan.26;Kozluk Mahallesi Aynalý Kavak Kocaeli;Erkek;25
+Ateþli silah;2012.Nisan.28;Yahya Kaptan Mahallesi Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Nisan.29;Ýzmit Sanat Sokaðý Kocaeli;Erkek;61
+Uyuþturucu;2012.Nisan.30;Gölcük Kavaklý Kocaeli;Erkek;32
+Dolandýrýcýlýk;2011.Aðustos.07;Yeni Yildiz Mahallesi Dilovasý Kocaeli;Erkek;-
+Þiddet;2011.Aðustos.08;aytepe koyu kundulbag ormani basiskele Kocaeli;Erkek;30
+Hýrsýzlýk;2011.Aðustos.11;merkez Kocaeli;Erkek;15
+Ýntihar;2011.Aðustos.12;diler demir celik iskelesi korfez hereke Kocaeli;Kadýn;19
+Þiddet;2011.Aðustos.15;tatlikuyu mah. korfez cad. gebze Kocaeli;Erkek;22
+Hýrsýzlýk;2011.Aðustos.17;pelitpinar koyu kandira Kocaeli;Erkek;25
+Dolandýrýcýlýk;2011.Aðustos.17;tavsantepe Kocaeli;Erkek;30
+Uyuþturucu;2011.Aðustos.11;cavuslu koyu Kocaeli;Erkek;35
+Dolandýrýcýlýk;2011.Aðustos.12;tuysuzler mah. can duygu sok. Kocaeli;Kadýn;35
+Ateþli silah;2011.Aðustos.24;yavuz sultan mah. toydemir sok. derince Kocaeli;Erkek;45
+Dolandýrýcýlýk;2011.Aðustos.24;goce koyu goce koyu yolu Kocaeli;Kadýn;45
+Tecavüz;2011.Aðustos.29;pinarli koyu yolu pinarli Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Aðustos.16;zeytinlik cad. karamursel Kocaeli;Erkek;26
+Ýntihar;2011.Mart.01;Karamürsel,Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.01;Ýzmit Ticaret Lisesi,Derince Kocaeli;Erkek;18
+Dolandýrýcýlýk;2011.Mart.03;Sepetlipýnar Mahallesi Ziyaret Caddesi, Baþiskele Kocaeli;Erkek;40
+Uyuþturucu;2011.Mart.03;Çukurbað Mahallesi, Ýzmit, Kocaeli;Erkek;26
+Hýrsýzlýk;2011.Mart.04;Baþiskele Ýlçesi Körfez Mahallesi D;130 Karayolu Atak Enerji, Kocaeli;Erkek;19
+Dolandýrýcýlýk;2011.Mart.05;TÜBÝTAK Gebze Yerleþkesi, Gebze Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Mart.07;Körfez Mahallesi 42 Evler, Kocaeli;Erkek;-
+Ýntihar;2011.Mart.07;Kartepe Uzunbey Mahallesi, Kocaeli;Erkek;20
+Ateþli Silah;2011.Mart.08;Saraylý Ýþ Haný, Gölcük Kocaeli;Erkek;31
+Ateþli Silah;2011.Mart.09;Körfez Esentepe Mahallesi Santral Sokak No:11, Kocaeli;Erkek;47
+Ateþli Silah;2011.Mart.09;Çayýrove Emek Mahallesi, Kocaeli;Erkek;25
+Ateþli Silah;2011.Mart.10;Derince Denizciler Caddesi Aysira Gelinlik  Kocaeli;Erkek;-
+Uyuþturucu;2011.Mart.12;Darty Real Alýþveriþ Maðazasý Ýzmit Kocaeli;Erkek;-
+Soygun;2011.Mart.12;Baþiskele ilçesi Mahmut Paþa Mahallesi Karamürsel Caddesi Ova sokak Kocaeli;Erkek;25
+Ateþli Silah;2011.Mart.12;Turan Güneþ Caddesi No:371, Kocaeli;Erkek;27
+Hýrsýzlýk;2011.Mart.13;Muallim Köyü, 41480 Muallim, Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.13;Ragýp Demirkol Bulvarý, Çayýrova, Kocaeli;Erkek;31
+Hýrsýzlýk;2011.Mart.15;Sepetçi Köyü, Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.18;Deniz Mahallesi Turgut Reis Ýlköðretim Okulu, Derince Kocaeli;Erkek;15
+Þiddet;2011.Mart.18;Gaziler mahallesi Kartepe Kocaeli;Erkek;31
+Dolandýrýcýlýk;2011.Mart.18;Ömeraða Mahallesi Þehit Musa sokak Kocaeli;Kadýn;-
+Ateþli Silah;2011.Mart.21;Karabaþ Mahallesi Leyla Atakan Caddesi Hafýz Selim Sokak Yýlmaz Apartmaný Kat:2 Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Mart.21;Dolphin Alýþveriþ Maðazasý, Ýzmit, Kocaeli;Erkek;25
+Ateþli Silah;2011.Mart.22;Mahmutpaþa Mh 41140 Gölcük Kocaeli;Erkek;51
+Dolandýrýcýlýk;2011.Mart.22;Küçük Sanayi Sitesi, Körfez, Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.22;Erenler Mahallesi Taþocaðý sokak Kocaeli;Kadýn;33
+Soygun;2011.Mart.23;Yeniköy, Baþiskele Kocaeli;Kadýn;43
+Ateþli Silah;2011.Mart.24;Baþiskele ilçesi Yuvacýk Sapaðý, Kocaeli;Erkek;-
+Ýntihar;2011.Mart.25;Gebze Ticaret Odasý, Gebze Kocaeli;Erkek;-
+Þiddet;2011.Mart.26;Derince Denizciler Caddesi D100, Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.27;Perþembe Pazarý, Ýzmit, Kocaeli;Erkek;48
+Ateþli Silah;2011.Mart.27;Kandýra Seyitaliler Köyü Davutlar Mahallesi Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.28;Hacýhýzýr Mh. Alemdar Cd. Pk:41040 Ýzmit Kocaeli;Erkek;18
+Uyuþturucu;2011.Mart.30;Anadolu Otoyolu (TEM Ýstanbul-Ankara Otoyolu) 41010 Izmit Kocaeli;Erkek;-
+Ateþli Silah;2011.Mart.30;Gölcük ilçesi Deðirmendere Yüzbaþýlar Mahallesi Rakýcýoðlu Sitesi Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Mart.31;Derince Çýnarlý Mahallesi Cebesoy sokak Kocaeli;Erkek;35
+Ýntihar;2011.Nisan.01;Darýca Kazým Karabekir Mahallesi Zülfikar Sokak No: 4, Kocaeli;Erkek;76
+Ateþli Silah;2011.Nisan.01;Sabancý Teknik Ve Endüstri Meslek Lisesi Alikahya Fatih Mh 41310 Ýzmit Kocaeli;Erkek;21
+Hýrsýzlýk;2011.Nisan.01;Derince ilçesi Yavuz Sultan Mahallesi Emniyetçiler Caddesi, Kocaeli;Erkek;-
+Soygun;2011.Nisan.02;Kadýköy Mahallesi Baðdat Caddesi Hayýrseverler Camisi, Kocaeli;Erkek;21
+Ateþli Silah;2011.Nisan.03;Ýzmit Karabaþ Mahallesi Köseoðlu sokak Kocaeli;Erkek;47
+Hýrsýzlýk;2011.Nisan.04;Yarýmca Atalar Mahallesi Ýstasyon Camii, Körfez, Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Nisan.05;Ýzmit Tepeköy Mahallesi Bayýndýrlýk Kalýcý Konutlarý, Kocaeli;Erkek;22
+Soygun;2011.Nisan.05;Seka Park Kozluk Mh 41200 Ýzmit Kocaeli;Erkek;21
+Ýntihar;2011.Nisan.05;Karamürsel Ereðli Hasan Hoca Mahallesi Kocaeli;Erkek;43
+Ýntihar;2011.Nisan.07;Köseköy Fatih Mahallesi Ýzmit Kocaeli;Erkek;81
+Uyuþturucu;2011.Nisan.08;Gültepe Mahallesi Ýzmit Kocaeli;Erkek;-
+Tecavüz;2011.Nisan.08;Gebze Kocaeli;Erkek;22
+Hýrsýzlýk;2011.Nisan.11;Yeniþehir Mahallesi Sevgi sokak Kocaeli;Erkek;21
+Ýntihar;2011.Nisan.12;Gebze Osman Yýlmaz Mahallesi 553 sokak No:1 Bahadýroðlu Apartmaný;Erkek;42
+Tecavüz;2011.Nisan.14;Eskihisar, Gebze Kocaeli;Erkek;30
+Dolandýrýcýlýk;2011.Nisan.15;Baþiskele Kocaeli;Erkek;41
+Uyuþturucu;2011.Nisan.17;Gültepe Mh. 41010 Izmit Kocaeli;Erkek;-
+Þiddet;2011.Nisan.18;Gebze Beylikbaðý Mahallesi Ulus Caddesi, Kocaeli;Erkek;-
+Ateþli Silah;2011.Nisan.19;Gebze Hacýhalil Mahallesi Cumhuriyet Meydaný, Kocaeli;Erkek;25
+Tecavüz;2011.Nisan.20;Kandýra, Kocaeli;Erkek;34
+Ateþli Silah;2011.Nisan.21;Yahya Kaptan`daki Süleyman Demirel Kültür Merkezi, Kocaeli;Kadýn;29
+Tecavüz;2011.Nisan.21;Ýzmit Þirintepe Mahallesi, Kocaeli;Erkek;33
+Ateþli Silah;2011.Nisan.22;Kandýra Belediyesi, Kandýra, Kocaeli;Erkek;-
+Soygun;2011.Nisan.23;Kullar Vezirçiftliði Yavuz Sultan Selim Caddesi, Kocaeli;Erkek;26
+Hýrsýzlýk;2011.Nisan.24;Deniz Mh 41900 Derince.Kocaeli;Erkek;-
+Ateþli Silah;2011.Nisan.25;Cedit Mahallesi Atatürk Bulvarý, Ýzmit, Kocaeli;Erkek;23
+Hýrsýzlýk;2011.Nisan.25;Kartepe Hasan Paþa Caddesi, Kocaeli;Erkek;25
+Ateþli Silah;2011.Nisan.25;Kandýra Çarþý Mahallesi Çarþý Taksi, Kocaeli;Erkek;-
+Ateþli Silah;2011.Nisan.26;Kartepe ilçesi Uzunçiftlik Bahçelievler Mahallesi, Kocaeli;Kadýn;33
+Tehdit;2011.Nisan.28;Yahya Kaptan C Blok Ýzmit, Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Nisan.29;Hacý Hýzýr Mahallesi, Ýzmit, Kocaeli;Erkek;30
+Ateþli Silah;2011.Nisan.29;Turgut Mahallesi, Ýzmit, Kocaeli;Erkek;37
+Ateþli Silah;2011.Nisan.30;Adnan Menderes Blv 41650 Gölcük.Kocaeli;;Erkek;24
+Uyuþturucu;2011.Eylül.01;sepetlipýnar mah. golcuk Kocaeli;Erkek;30
+Tecavüz;2011.Eylül.01;dumlupýnar mah. kartepe;Kadýn;19
+Ateþli silah;2011.Eylül.01;akcakayran mah. kandira;Erkek;-
+Ateþli silah;2011.Eylül.02;cumhuriyet mah. dilovasi;Erkek;38
+Ýntihar;2011.Eylül.03;topcular mah. izmit;Erkek;22
+Hýrsýzlýk;2011.Eylül.03;tutunciftlik korfez Kocaeli;-;-
+Ateþli silah;2011.Eylül.04;haciomeraga mah. karamursel Kocaeli;Erkek;-
+Ateþli silah;2011.Eylül.05;carsi mah. kandira Kocaeli;Erkek;25
+Ýntihar;2011.Eylül.06;piyale mah. Gölcük Kocaeli;Kadýn;42
+Hýrsýzlýk;2011.Eylül.07;ciftlik mah. gölcük Kocaeli;Erkek;41
+Tecavüz;2011.Eylül.08;yenihisar mah.izmit Kocaeli;Erkek;-
+Tecavüz;2011.Eylül.08;gültepe mah. izmit Kocaeli;Erkek;36
+Uyuþturucu;2011.Eylül.09;kullar ovacik mah. basiskele Kocaeli;Erkek;61
+Ateþli silah;2011.Eylül.10;hatipköy, Kocaeli;Erkek;31
+Dolandýrýcýlýk;2011.Eylül.10;köseköy, Kocaeli;Erkek;29
+Þiddet;2011.Eylül.11;karabas mah izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Eylül.12;mehmet ali pasa mah. izmit Kocaeli;Erkek;24
+Ateþli silah;2011.Eylül.12;fethiye koyu izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Eylül.12;mimar sinan mah. korfez Kocaeli;Erkek;-
+Þiddet;2011.Eylül.13;yenikent mah. derince Kocaeli;Erkek;31
+Tecavüz;2011.Eylül.13;gultepe mah. izmit Kocaeli;Erkek;19
+Hýrsýzlýk;2011.Eylül.14;kurucesme mah. izmit;Kadýn;21
+Uyuþturucu;2011.Eylül.14;gultepe rampasi izmit;Erkek;31
+Ateþli silah;2011.Eylül.14;kadikoy mah. m.akif sok. izmit;Erkek;19
+Hýrsýzlýk;2011.Eylül.15;42 evler izmit Kocaeli;Erkek;20
+Þiddet;2011.Eylül.15;nenehatun mah. darica Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Eylül.17;tepekoy mah. 17 agustos cad. izmit Kocaeli;Erkek;33
+Tecavüz;2011.Eylül.18;selimpasa cad. yavuzselim mah. gebze;Erkek;20
+Ateþli silah;2011.Eylül.19;kent sok. sepetli pinar mah. gölcük;Erkek;17
+Uyuþturucu;2011.Eylül.19;gultepe rampasi izmit Kocaeli;Erkek;33
+Ateþli silah;2011.Ekim.01;turgut mah. izmit kocaeli;Erkek;32
+Dolandýrýcýlýk;2011.Ekim.01;körfez tem otoyolu Kocaeli;Erkek;44
+Hýrsýzlýk;2011.Ekim.01;Kadikoy Mahallesi Bahri cakir Caddesi izmit;Erkek;28
+Hýrsýzlýk;2011.Ekim.05;tavþantepe mah. izmit Kocaeli;Erkek;20
+Ýntihar;2011.Ekim.07;tavsante mah. mehmet caglar sok. izmit Kocaeli;Kadýn;25
+Dolandýrýcýlýk;2011.Ekim.10;halkevi izmit Kocaeli;Erkek;28
+Hýrsýzlýk;2011.Ekim.19;karakopru mah. ataturk cad. Gölcük Kocaeli;Erkek;42
+Ateþli silah;2011.Ekim.13;yenisehir mh. ata sok. izmit Kocaeli;Erkek;29
+Uyuþturucu;2011.Ekim.17;dogu kisla parki izmit kocaeli;Erkek;31
+Dolandýrýcýlik;2011.Ekim.21;fethiye cad. izmit Kocaeli;Kadýn;25
+Dolandýrýcýlýk;2011.Temmuz.01;Uzuntarla Kartepe izmit;Erkek;-
+Þiddet;2011.Temmuz.01; Ataturk Mah. Cayirova kocaeli;Erkek;?
+Hýrsýzlýk;2011.Temmuz.02;Karabas Mah. Ýkizli Mevkii Izmit Kocaeli;Kadýn;15
+Hýrsýzlýk;2011.Temmuz.02;Yahya Kaptan Mahallesi Armadakent Sitesi Izmit Kocaeli;Erkek;19
+Ateþli silah;2011.Temmuz.03;Karaagac Koyu Kandira Kocaeli;Erkek;-
+Ateþli silah;2011.Temmuz.03;Mevlana Mahallesi Gebze Kocaeli;Erkek;26
+Ýntihar;2011.Temmuz.03;Bayraktar Koyu Izmit Kocaeli;Erkek;17
+Ateþli Silah;2011.Temmuz.03;Dilovasi Kocaeli;Erkek;-
+Ateþli Silah;2011.Temmuz.05;Karaagac Koyu Kandira Kocaeli;Erkek;-
+Tecavüz;2011.Temmuz.07;Aytepe Köyü Basiskele Kocaeli;Erkek;30
+Ýntihar;2011.Temmuz.07;Hereke Sahili Korfez kocaeli;Kadýn;19
+Ýntihar;2011.Temmuz.09;Emek Mahallesi Kartepe kocaeli;Erkek;30
+Ýntihar;2011.Temmuz.10;Cavuslu Koyu Derince Kocaeli;Erkek;32
+Ateþli silah;2011.Temmuz.11;Eskicarsi Gebze Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Temmuz.12;Kartepe Kocaeli;Erkek;-
+Þiddet;2011.Temmuz.12;Kandira Kocaeli;Kadýn;-
+Ateþli silah;2011.Temmuz.13;Yenidogan Mah. Izmit Kocaeli;Erkek;38
+Dolandýrýcýlýk;2011.Temmuz.13;Gultepe Rampasi Izmit Kocaeli;Erkek;47
+Þiddet;2011.Temmuz.14;Harmantarla Mah. Derince Kocaeli;Erkek;44
+Hýrsýzlýk;2011.Temmuz.15;Pelitpinari Koyu Kandira Kocaeli;Erkek;-
+Ateþli silah;2011.Temmuz.16;Cinarli Mah. Masukiye Kartepe kocaeli;Erkek;-
+Ýntihar;2011.Temmuz.16;Yavuz Selim Mah. Ozen Sok. Derince Kocaeli;Erkek;26
+Þiddet;2011.Temmuz.16;Yavuz Selim Mah. Bayraktar Sok. Körfez;Erkek;48
+Ateþli silah;2011.Temmuz.18;Masukiye Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Temmuz.18;Ömeraða Mahallesi Hürriyet Caddesi No:100 Ýzmit Kocaeli;-;-
+Ateþli silah;2011.Temmuz.19;Kavaklý Sahili Gölcük Kocaeli;Erkek;-
+Uyuþturucu;2011.Temmuz.20;Mimar Sinan Mahallesi Dilovasi Kocaeli;Erkek;-
+Þiddet;2011.Temmuz.20;Korfez Kocaeli;Erkek;-
+Tehdit;2011.Temmuz.21;Izmit Kocaeli;Erkek;?
+Þiddet;2011.Temmuz.21;Cinarli Cami kocaeli;Erkek;?
+Uyuþturucu;2011.Temmuz.22;Fatih Mahallesi 410 Sokak No 4 Dilovasi Kocaeli;Erkek;?
+Hýrsýzlýk;2011.Temmuz.23;Golcuk Kocaeli;Kadýn;17
+Þiddet;2011.Temmuz.25;Istasyon Caddesi Kahveler Duragi Darica;Erkek;-
+Hýrsýzlýk;2011.Temmuz.26;42 Evler Sanayi Mahallesi Korfea Caddesi Ýzmit;Erkek;41
+Uyuþturucu;2011.Temmuz.27;Bayraktar Koyu Izmit Kocaeli;Erkek;36
+Hýrsýzlýk;2011.Temmuz.27;Bekirpasa Izmit Kocaeli;Erkek;-
+Tecavüz;2011.Temmuz.29;Akarca Mahallesi Izmit Kocaeli;Erkek;31
+Hýrsýzlýk;2011.Temmuz.29;Kurucesme Mahallesi Kurucesme Cay Bahcesi Kocaeli;Erkek;23
+Þiddet;2011.Temmuz.31;Yesilova Mahallesi Izmit Kocaeli;Erkek;21
+Hýrsýzlýk;2011.Aralýk.01;Servetiye Koyu Basiskele Kocaeli;Erkek;-
+Ateþli silah;2011.Aralýk.02;Karsiyaka Basiskele Kocaeli;Erkek;52
+Hýrsýzlýk;2011.Aralýk.04;Fatih Mahallesi Sultan Murat Caddesi Alikahya Izmit Kocaeli;Erkek;18
+Hýrsýzlýk;2011.Aralýk.06;Izmit Kocaeli;Erkek;30
+Hýrsýzlýk;2011.Aralýk.06;Kocaeli Universitesi Umuttepe Tip Fakultesi;Erkek;26
+Hýrsýzlýk;2011.Aralýk.06;Gultepe Tir Parki Izmit Kocaeli;Erkek;27
+Uyuþturucu;2011.Aralýk.07;Akcakoca Konutlari Izmit Kocaeli;Erkek;21
+Intýhar;2011.Aralýk.07;Gebze Kocaeli;Erkek;-
+Tecavüz;2011.Aralýk.07;Yenidogan Mahallesi Izmit Kocaeli;Erkek;44
+Þiddet;2011.Aralýk.08;Ulugazi Ilkogretim Okulu Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Aralýk.08;Omeraga Mahallesi Inonu Caddesi Izmit Kocaeli;Erkek;22
+Uyuþturucu;2011.Aralýk.09;Korfez Kocaeli;Erkek;29
+Ateþli silah;2011.Aralýk.11;Kandira Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Aralýk.11;Gebze Kocaeli;-;-
+Tecavüz;2011.Aralýk.11;Gultepe Beyhan Sokak Izmit Kocaeli;Erkek;19
+Hýrsýzlýk;2011.Aralýk.11;Barbaros Mahallesi Yavuz Sultan Selim Caddesi Basiskele Kocaeli;Erkek;34
+Ýntihar;2011.Aralýk.11;Kuzey Yildizi Restorant Izmit Kocaeli;Erkek;40
+Hýrsýzlýk;2011.Aralýk.12;Istasyon Mahallesi Kosekoy Izmit Kocaeli;Erkek;19
+Dolandýrýcýlýk;2011.Aralýk.12;Cayirova Kocaeli;Erkek;40
+Tecavüz;2011.Aralýk.13;Kocaeli Universitesi Umuttepe Tip Fakultesi;Erkek;34
+Hýrsýzlýk;2011.Aralýk.13;Gebze Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Aralýk.14;Ozgurluk Mahallesi Cayirova Kocaeli;Erkek;27
+Þiddet;2011.Aralýk.15;Guney Mahallesi Korfez Kocaeli;Erkek;-
+Ateþli silah;2011.Aralýk.15;Darica Kocaeli;-;-
+Þiddet;2011.Aralýk.15;Seker Pinar Mahallesi Izmit Kocaeli;Erkek;51
+Ateþli silah;2011.Aralýk.17;Gölcük Kocaeli;Erkek;-
+Tecavüz;2011.Aralýk.17;Yenidogan Mahallesi Izmit Kocaeli;Kadýn;41
+Dolandýrýcýlýk;2011.Aralýk.18;Mehmet Ali Pasa Mahallesi Izmit Kocaeli;Erkek;33
+Þiddet;2011.Aralýk.18;Tren Gari Izmit Kocaeli;Erkek;25
+Hýrsýzlýk;2011.Aralýk.18;Yenisehir Mahallesi Izmit Kocaeli;Kadýn;20
+Hýrsýzlýk;2011.Aralýk.19;Veli Ahmet Mahallesi Izmit Kocaeli;Erkek;16
+Þiddet;2011.Aralýk.19;Avni Kalkavan Stadi Derince Kocaeli;Erkek;31
+Þiddet;2011.Aralýk.21;Persembe Pazari Izmit Kocaeli;Erkek;-
+Þiddet;2011.Aralýk.21;28 Haziran Mahallesi Izmit Kocaeli;Erkek;19
+Hýrsýzlýk;2011.Aralýk.22;Dumlupinar Mahallesi Kocaeli;Erkek;-
+Uyuþturucu;2011.Aralýk.22;Gultepe Rampasi Izmit Kocaeli;-;-
+Þiddet;2011.Aralýk.23;Dumlupýnar Mahallesi Preveze Caddesi Birol Apartmani No 136 Kat 1 Gölcük Kocaeli;Kadýn;20
+Hýrsýzlýk;2011.Aralýk.23;Tavsancil D100 Karayolu Dilovasi Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Aralýk.25;Yesilova Mahallesi Serpil Sokak Izmit Kocaeli;Erkek;26
+Ateþli silah;2011.Aralýk.25;Yenisehir Mahallesi Izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Aralýk.26;Yenisehir Mahallesi Izmit Kocaeli;Erkek;18
+Þiddet;2011.Aralýk.27;Tepecik Mahallesi Inonu Caddesi Izmit Kocaeli;Erkek;15
+Hýrsýzlýk;2011.Aralýk.27;Karadenizliler Mahallesi Baþiskele Kocaeli;Erkek;22
+Hýrsýzlýk;2011.Aralýk.28;Eskihisar Koyu Gebze Kocaeli;Erkek;-
+Ateþli silah;2011.Aralýk.29;Korfez Mahallesi Ali Dikmen Sokak Izmit Kocaeli;Erkek;25
+Tecavüz;2011.Aralýk.29;Gebze Kocaeli;Erkek;29
+Þiddet;2011.Aralýk.30;Bagcesma Mahallesi Kaymaz Sokak Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Aralýk.31;Belsa Plaza Izmit Kocaeli;Kadýn;44
+Hýrsýzlýk;2011.Aralýk.31;Fevzi Cakmak Mahallesi Darica Kocaeli;Erkek;25
+Uyuþturucu;2011.Mayýs.01;Izmit,Kocaeli;Erkek;33
+Ateþli silah;2011.Mayýs.01;Belsa Plaza,Izmit Kocaeli;Erkek;26
+Þiddet;2011.Mayýs.02;Izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Mayýs.03; Mehmet Ali Pasa Mahallesi,Zincirli Kuyu Caddesi,Izmit Kocaeli;Erkek;37
+Uyuþturucu;2011.Mayýs.03; Cedit Mahallesi,Kaymaz sokak Izmit Kocaeli;Erkek;67
+Ateþli silah;2011.Mayýs.04; Yenikoy,Kocaeli;Erkek;37
+Ateþli silah;2011.Mayýs.04; Omeraga Mahallesi,Naci Girginsoy sokak Izmit Kocaeli;Kadýn;59
+Tehdit;2011.Mayýs.05;Cedit Mahallesi,Izmit Kocaeli;Erkek;27
+Þiddet;2011.Mayýs.05;Dilovasi,Kocaeli;Kadýn;13
+Tehdit;2011.Mayýs.06;Arslanbey,Kocaeli;Kadýn;32
+Soygun;2011.Mayýs.07;Saatci Ali Efendi Muzesi,Izmit Kocaeli;Erkek;41
+Ateþli silah;2011.Mayýs.07;Izmit,Kocaeli;Erkek;59
+Tecavüz;2011.Mayýs.08;Izmit,Kocaeli;Erkek;36
+Ateþli silah;2011.Mayýs.08;Kandira,Kocaeli;Erkek;-
+Tehdit;2011.Mayýs.09;Aydinlik Mahallesi,Okul sokak Kandira,Kocaeli;Erkek;-
+Soygun;2011.Mayýs.10;Yahya Kaptan,Izmit,Kocaeli;Kadýn;-
+Hýrsýzlýk;2011.Mayýs.12;Karamursel,Kocaeli;-;-
+Þiddet;2011.Mayýs.12;Kartepe Kocaeli;Erkek;27
+Ateþli silah;2011.Mayýs.13;Topcular Mahallesi,Izmit Kocaeli;Erkek;21
+Ateþli silah;2011.Mayýs.14;Muallim köy,Gebze Kocaeli;-;-
+Tehdit;2011.Mayýs.14;Kandira,Kocaeli;Erkek;29
+Þiddet;2011.Mayýs.15;Sekapark Ucurtma Tepesi,Izmit Kocaeli;Erkek;20
+Þiddet;2011.Mayýs.18;Aydinlik Mahallesi,Okul sokak Kandýra Kocaeli;Erkek;49
+Uyuþturucu;2011.Mayýs.18;Gölcük Kocaeli;-;-
+Uyuþturucu;2011.Mayýs.19;Gultepe Rampasi,Izmit Kocaeli;Erkek;45
+Þiddet;2011.Mayýs.20;Yuruyus Yolu,Izmit Kocaeli;Kadýn;20
+Uyuþturucu;2011.Mayýs.21;Gölcük Kocaeli;-;-
+Þiddet;2011.Mayýs.23; Ýzmit Devlet Hastanesi Kocaeli;Erkek;-
+Ýntihar;2011.Mayýs.24;Tavsantepe Mahallesi,Mumin sokak No:44,Izmit Kocaeli;Erkek;40
+Ateþli silah;2011.Mayýs.26;Korfez,Kocaeli;Erkek;-
+Ýntihar;2011.Mayýs.27;Yenisehir Mahallesi,Gungoren sokak No:14,Izmit Kocaeli;Kadýn;26
+Hýrsýzlýk;2011.Mayýs.28;Yuvacik Kalici Konutlari,Basiskele Izmit Kocaeli;Erkek;-
+Tehdit;2011.Mayýs.29;Gölcük Kocaeli;Erkek;25
+Þiddet;2011.Mayýs.31;Yeni Cuma Parki,Izmit Kocaeli;-;-
+Ýntihar;2012.Ocak.01;Gebze Muallim Koyu,Izmit Kocaeli;Erkek;28
+Ateþli silah;2012.Ocak.02;Dilovasý Turgut Ozal Mahallesi,Izmit Kocaeli;Erkek;33
+Ýntihar;2012.Ocak.02;Derince Yenikent Mahallesi,Izmit Kocaeli;Erkek;52
+Uyuþturucu;2012.Ocak.03;Kadýkoy Mahallesi,Izmit Kocaeli;Erkek;59
+Uyuþturucu;2012.Ocak.04;Bekirpasa,Izmit Kocaeli;Erkek;29
+Dolandýrýcýlýk;2012.Ocak.05;Kandýra,Izmit Kocaeli;Erkek;45
+Þiddet;2012.Ocak.06;Erenler Mahallesi,Tasocagý sokak Izmit Kocaeli;Erkek;39
+Hýrsýzlýk;2012.Ocak.09;Inonu Caddesi,Izmit Kocaeli;Kadýn;41
+Ateþli silah;2012.Ocak.09;GebzeKosklucesme Mahallesi,Izmit Kocaeli;Erkek;-
+Ýntihar;2012.Ocak.10;Korfez,Yeni Yalý Mahallesi,Izmit Kocaeli;Erkek;45
+Soygun;2012.Ocak.10;Karabas Mahallesi,Cengiz Topel Caddesi,Izmit Kocaeli;Erkek;27
+Ýntihar;2012.Ocak.12;Gebze Izmit KOcaeli;Erkek;58
+Dolandýrýcýlýk;2012.Ocak.13;Cayýrova,Izmit Kocaeli;Erkek;44
+Hýrsýzlýk;2012.Ocak.14;Dilovasý,Izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Ocak.16;Tavsantepe Mahallesi,Izmit Kocaeli;Erkek;-
+Uyuþturucu;2012.Ocak.17;Tepecik Mahallesi,Izmit Kocaeli;Erkek;27
+Uyuþturucu;2012.Ocak.19;Tepecik Mahallesi Kocaeli;Erkek;28
+Hýrsýzlýk;2012.Ocak.20;Derince Yenikent Mahallesi,Izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Ocak.21;Sanayi Mahallesi,Izmit Kocaeli;Erkek;26
+Hýrsýzlýk;2012.Ocak.22;Fethiye Caddesi,Izmit KOcaeli;Kadýn;22
+Hýrsýzlýk;2012.Ocak.24;Derince Izmit KOcaeli;Kadýn;27
+Ateþli silah;2012.Ocak.25;GebzeHacý Halil Mahallesi,Izmit Kocaeli;Erkek;27
+Tecavüz;2012.Ocak.26;Yesilova Mahallesi,Izmit Kocaeli;Erkek;20
+Hýrsýzlýk;2012.Ocak.27;Yenidogan Mahallesi,Izmit Kocaeli;Erkek;23
+Uyuþturucu;2012.Ocak.28;Gocuk Kavaklý Mahallesi,Izmit Kocaeli;Erkek;25
+Dolandýrýcýlýk;2012.Ocak.29;Golcuk Merkez Mahallesi,Inonu Caddesi,Izmit Kocaeli;Erkek;53
+Ateþli silah;2012.Ocak.30;Inonu Caddesi,Bac Kavsagý,Izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2012.Ocak.31;Topcular Mahallesi,Ýzmit KOcaeli;Erkek;17
+Dolandýrýcýlýk;2011.Þubat.01;Gebze Izmit Kocaeli;Erkek;-
+Uyuþturucu;2011.Þubat.02;Yenidogan Mahallesi,Zerda sokak Izmit Kocaeli;Erkek;49
+Ýntihar;2011.Þubat.05;Gebze Eskihisar Koyu,Izmit Kocaeli;Erkek;25
+Þiddet;2011.Þubat.06;Kemalpasa Mahallesi,Imaret Yokusu sokak Izmit Kocaeli;Erkek;57
+Hýrsýzlýk;2011.Þubat.07;Kurucesme Izmit Kocaeli;Kadýn;38
+Soygun;2011.Þubat.08;Gebze Izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Þubat.09;Gebze Izmit Kocaeli;Erkek;55
+Þiddet;2011.Þubat.11;Yeni Cuma Cami,Ýzmt Kpcaeli;Erkek;-
+Hýrsýzlýk;2011.Þubat.13;Cayýrova,Izmit Kocaeli;Erkek;-
+Ýntihar;2011.Þubat.15;Gebze Guzeller Mahallesi,Izmit Kocaeli;Kadýn;16
+Hýrsýzlýk;2011.Þubat.16;Sirintepe Mahallesi,Izmit Kocaeli;Erkek;16
+Hýrsýzlýk;2011.Þubat.17;Fethiye Caddesi,Izmit Kocaeli;Kadýn;44
+Ateþli silah;2011.Þubat.20;Gebze Izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Þubat.21;Gebze Yavuz Selim Mahallesi Kocaeli;Erkek;34
+Ateþli silah;2011.Þubat.23;Korfez Sanayi Sitesi,Izmit Kocaeli;Erkek;-
+Ýntihar;2011.Þubat.24;Kandýra,Akbal Mahallesi,IzmitvKocaeli;Erkek;25
+Hýrsýzlýk;2011.Þubat.25;Derince Izmýt Kocaeli;Erkek;40
+Ateþli silah;2012.Þubat.26;Gebze Inonu Mahallesi Kocaeli;Erkek;33
+Hýrsýzlýk;2011.Þubat.27;Serdar Mahallesi,Izmit Kocaeli;Erkek;27
+Soygun;2011.Haziran.01;Dilovasý Gumrugu,Izmit Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Haziran.02;Kartepe Izmit Kocaeli;Erkek;-
+Tecavüz;2011.Haziran.04;Tavsantepe Mahallesi,Izmit Kocaeli;Erkek;-
+Ateþli silah;2011.Haziran.08;Kadýkoy Mahallesi,Zumrut sokak Izmit Kocaeli;Erkek;57
+Hýrsýzlýk;2011.Haziran.09;Karamursel,Kayacýk Mahallesi Kocaeli;Erkek;-
+Hýrsýzlýk;2011.Haziran.10;Tavsantepe Mahallesi,Izmit Kocaeli;Erkek;-
+Dolandýrýcýlýk;2011.Haziran.11;Derince Izmýt Kocaeli;Erkek;45
+Ateþli silah;2011.Haziran.13;Yenidogan Mahallesi Kocaeli;Erkek;38
+Ateþli silah;2011.Haziran.16;Alikahya Merkez Mahallesi,Izmit Kocaeli;Erkek;-
+Þiddet;2011.Haziran.17;Kandýra Ferizli Koyu,Izmit Kocaeli;Kadýn;44
+Hýrsýzlýk;2011.Haziran.21;Karamursel,Izmit Kocaeli;Erkek;-
+Tecavüz;2011.Haziran.22;Karabas Mahallesi,Suleymanpasa sokak Izmit Kocaeli;Erkek;31
+Ýntihar;2011.Haziran.24;GebzeBeylikbagý Hurriyet Mahallesi Izmit Kocaeli;Erkek;27
+Dolandýrýcýlýk;2011.Haziran.25;Derince Izmit Kocaeli;Erkek;-
+Uyuþturucu;2011.Haziran.27;Basiskele Vezir Ciftligi Mahallesi,Izmit Kocaeli;Erkek;22
+Hýrsýzlýk;2011.Haziran.28;Degirmendere Izmit Kocaeli;Kadýn;24
+Ýntihar;2011.Haziran.29;Korfez,Elmacýk Koyu,Izmit Kocaeli;Kadýn;19
+Þiddet;2011.Kasým.02;Kandýra Sapaðý,Izmit Kocaeli;Erkek;41
+Hýrsýzlýk;2011.Kasým.03;Inonu Caddesi,Izmit Kocaeli;Erkek;37
+Þiddet;2011.Kasým.05;Ayazma Mahallesi,Izmit Kocaeli;Erkek;-
+Þiddet;2011.Kasým.07;Yeni Cuma Cami Kocaeli;Erkek;20
+Uyuþturucu;2011.Kasým.08;Tem Otoyolu,Izmit Kocaeli;Erkek;28
+Hýrsýzlýk;2011.Kasým.09;Mehmet Ali Paþa Cami,Izmit Kocaeli;Erkek;25
+Hýrsýzlýk;2011.Kasým.10;Outlet Center,Izmit Kocaeli;Erkek;-
+Þiddet;2011.Kasým.11;Gebze Izmit Kocaeli;Erkek;20
+Hýrsýzlýk;2011.Kasým.12;Yeni Dogan Mahallesi,Miralay Mumtaz Caddesi Kocaeli;Erkek;23
+Ateþli silah;2011.Kasým.14;Derince Ibn;i Sina Mahallesi,Izmit Kocaeli;Erkek;-
+Soygun;2011.Kasým.15;Yenidogan Mahallesi Kocaeli;Erkek;20
+Soygun;2011.Kasým.16;Sirintepe Mahallesi,Asuman sokak Izmit Kocaeli;Erkek;21
+Soygun;2011.Kasým.17;Yenisehir Mahallesi,Izmit Kocaeli;Erkek;27
+Þiddet;2011.Kasým.19;Gazi Lisesi,Izmit Kocaeli;Erkek;24
+Hýrsýzlýk;2011.Kasým.21;Kadýkoy Mahallesi,Ataturk Bulvarý,Izmit Kocaeli;Erkek;29
+Soygun;2011.Kasým.22;Sirintepe Mahallesi,Bora Caddesi,Izmit Kocaeli;Erkek;23
+Þiddet;2011.Kasým.25;Topcular Mahallesi Seref Meydaný Kocaeli;Erkek;39
+Tecavüz;2011.Kasým.27;Erenler Mahallesi,Izmit Kocaeli;Erkek;39
+Hýrsýzlýk;2011.Kasým.29;Kartepe Arslanbey Yolu Cuhane Caddesi,Izmit Kocaeli;Erkek;23
